@@ -13,5 +13,8 @@
 - Radio Transmitter: Jumper T16 with Crossfire Micro
 - BLHeli-32 @ 24Hz PWM
 
-### First Test Flight Video
+### June 17, First Test Flight Video
 - https://youtu.be/hOabBuAVvjM
+
+### June 21, Second Test Flight Video
+- https://www.youtube.com/watch?v=ouz-8ZWjYks
