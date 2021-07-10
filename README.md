@@ -24,3 +24,9 @@
 
 Some vibrations during cruising at 0:07 and between 0:52 and 0:57
 - https://www.youtube.com/watch?v=P8vB_TRloe4
+
+### July 10, Fourth Test Flight Video
+- https://youtu.be/fjYm4WcTOqw
+
+Still vibrating on moderate and fast cruising, I-term 90/95
+- https://www.youtube.com/watch?v=5t0ABB_jiSw
