@@ -18,3 +18,9 @@
 
 ### June 21, Second Test Flight Video
 - https://www.youtube.com/watch?v=ouz-8ZWjYks
+
+### July 9, Third Test Flight Video
+- https://youtu.be/q6CpmIwKOA8
+
+Some vibrations during cruising at 0:07 and between 0:52 and 0:57
+- https://www.youtube.com/watch?v=P8vB_TRloe4
