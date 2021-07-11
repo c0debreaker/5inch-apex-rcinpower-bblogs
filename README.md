@@ -30,3 +30,6 @@ Some vibrations during cruising at 0:07 and between 0:52 and 0:57
 
 Still vibrating on moderate and fast cruising, I-term 90/95
 - https://www.youtube.com/watch?v=5t0ABB_jiSw
+
+### July 11, Fifth Blackboxing using default Betaflight settings
+- https://www.youtube.com/watch?v=2o6xOdpxfsg
