@@ -4,14 +4,14 @@
 - Frame: Apex 5"
 - Motors: RCINPower GTS v2 2207 1860kv
 - VTX/Camera: Caddx Vista
-- Props: HQ Props 5 x 4.8 x 3
+- Props: HQ Props 5 x 4.3 x 3
 - FC: HyperLite F4 OSD
 - ESC: Spedix GS45A 4in1
 - Battery: 6S Lipo
-- Receiver: Crossfire Nano CRSFShot ADC Off
+- Receiver: Crossfire Nano ADC Off
 - Blackbox logger: external Openlager 2Khz GYRO Scaled
 - Radio Transmitter: Jumper T16 with Crossfire Micro
-- BLHeli-32 @ 24Hz PWM
+- BLHeli-32 - Variable PWM LOW: 24Khz HIGH: 48Khz
 
 ### June 17, First Test Flight Video
 - https://youtu.be/hOabBuAVvjM
