@@ -33,3 +33,6 @@ Still vibrating on moderate and fast cruising, I-term 90/95
 
 ### July 11, Fifth Blackboxing using default Betaflight settings
 - https://www.youtube.com/watch?v=2o6xOdpxfsg
+
+### July 12, Sixth Blackboxing using BF 4.3 branch KarateBrot:biquadCrossfeed
+- https://www.youtube.com/watch?v=3YVZnyy-03o
